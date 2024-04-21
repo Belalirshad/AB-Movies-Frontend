@@ -12,7 +12,6 @@ Welcome to the `AB-Movies-Frontend` repository, the front-end part of the Movies
 - [Installation and setup](#installation)
 - [Contributing](#contributing)
 - [Contact](#contact)
-- [License](#license)
 
 </details>
 
